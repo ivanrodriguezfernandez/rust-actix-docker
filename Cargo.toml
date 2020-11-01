@@ -1,0 +1,8 @@
+[package]
+name = "rust-actix-web"
+version = "0.1.0"
+authors = ["Iván Rodríguez"]
+edition = "2018"
+
+[dependencies]
+actix-web= "3"
